@@ -1,6 +1,5 @@
 """
-Task 4: Sentiment Analysis on Amazon Fine Food Reviews
-CodeAlpha Data Analytics Internship
+Sentiment Analysis on Amazon Fine Food Reviews
 
 Pehli baar setup (terminal mein):
     pip install kagglehub nltk textblob vaderSentiment wordcloud scikit-learn seaborn matplotlib pandas
